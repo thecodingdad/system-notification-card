@@ -5,6 +5,10 @@ A unified card displaying system updates, persistent notifications, and active r
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/thecodingdad/system-notification-card)](https://github.com/thecodingdad/system-notification-card/releases)
 
+## Screenshot
+
+![System Notification Card](screenshots/screenshot.png)
+
 ## Features
 
 - Three sections: Updates, Notifications, Repairs
@@ -19,7 +23,7 @@ A unified card displaying system updates, persistent notifications, and active r
 
 ## Prerequisites
 
-- Home Assistant 2024.1.0 or newer
+- Home Assistant 2026.3.0 or newer
 - HACS (recommended for installation)
 
 ## Installation
